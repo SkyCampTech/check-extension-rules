@@ -4,8 +4,7 @@
       "^https://auth\\.services\\.adobe\\.com(/.*)?$",
       "^https://[^/]*\\.adobelogin\\.com(/.*)?$",
       "^https://adminconsole\\.adobe\\.com(/.*)?$",
-      "^https://id\\.trimble\\.com(/.*)?$",
-      "^https://check-sync-test\\.skycamptech\\.com(/.*)?$"
+      "^https://id\\.trimble\\.com(/.*)?$"
     ]
   }
 }
