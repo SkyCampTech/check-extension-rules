@@ -1,0 +1,10 @@
+{
+  "exclusion_system": {
+    "domain_patterns": [
+      "^https://auth\\.services\\.adobe\\.com(/.*)?$",
+      "^https://[^/]*\\.adobelogin\\.com(/.*)?$",
+      "^https://adminconsole\\.adobe\\.com(/.*)?$",
+      "^https://id\\.trimble\\.com(/.*)?$"
+    ]
+  }
+}
