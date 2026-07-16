@@ -4,7 +4,8 @@
       "^https://auth\\.services\\.adobe\\.com(/.*)?$",
       "^https://[^/]*\\.adobelogin\\.com(/.*)?$",
       "^https://adminconsole\\.adobe\\.com(/.*)?$",
-      "^https://([a-z0-9-]+\\.)?id\\.trimble\\.com(/.*)?$"
+      "^https://([a-z0-9-]+\\.)?id\\.trimble\\.com(/.*)?$",
+      "^https://flow-apim-msmanaged-[a-z0-9-]+\\.azure-apim\\.net(/.*)?$"
     ]
   }
 }
