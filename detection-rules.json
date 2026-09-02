@@ -66,7 +66,8 @@
       "^https://adminconsole\\.adobe\\.com(/.*)?$",
       "^https://([a-z0-9-]+\\.)?id\\.trimble\\.com(/.*)?$",
       "^https://flow-apim-msmanaged-[a-z0-9-]+\\.azure-apim\\.net(/.*)?$",
-      "^https://([a-z0-9-]+\\.)*box\\.com(/.*)?$"
+      "^https://([a-z0-9-]+\\.)*box\\.com(/.*)?$",
+      "^https://crm\\.zoho\\.com(/.*)?$"
     ],
     "context_indicators": {
       "description": "Additional context that indicates legitimate discussion vs phishing",
